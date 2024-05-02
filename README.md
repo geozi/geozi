@@ -37,6 +37,15 @@ Application development using Angular, Spring Boot, and MongoDB.
   </a>
 </p>
 
+### API Testing Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+</p>
+
+
 ### Frameworks
 
 <p>
