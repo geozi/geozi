@@ -11,9 +11,10 @@
 
 My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied Informatics (MSc), and I have embarked on a journey to expand my horizons on programming and software development. A journey that took me, abstraction to abstraction, from the foundations of computer organization to the echelons of high-level programming languages. Starting with Python as my introductory language, I then moved on to the Java Universe. I have learned a lot, but I am aware that I have only scratched the surface. More is to come and the journey continues!
 
-### General interests
+### Interests
 
-* Programming and software design patterns
+* Software design patterns
+* Software and API testing
 * Requirements engineering
 * Qualitative research (ethnography)
 
