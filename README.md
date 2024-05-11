@@ -26,7 +26,7 @@ Application development using Angular, Spring Boot, and MongoDB.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,python&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python&theme=light" />
   </a>
 </p>
 
