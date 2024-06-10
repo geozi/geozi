@@ -18,12 +18,14 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
 * Requirements engineering
 * Qualitative research (ethnography)
 
-### Current projects
+### Stats
 
-Application development using Angular, Spring Boot, and MongoDB.
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geozi&hide_progress=true)
 
-<br>
+### Skills
 
 | Languages | Build Tools | Frameworks | DBMS | IDEs/Text Editors | API Tools |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python&theme=light" /> | <img src="https://skillicons.dev/icons?i=gradle,maven&theme=light" /> | <img src="https://skillicons.dev/icons?i=spring,bootstrap,angular&theme=light" /> | <img src="https://skillicons.dev/icons?i=mysql,mongo&theme=light" /> | <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light" /> | <img src="https://skillicons.dev/icons?i=postman" /> |
+
+
