@@ -16,7 +16,6 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
 * Software design patterns
 * Software and API testing
 * Requirements engineering
-* Qualitative research (ethnography)
 
 ### Stats
 
