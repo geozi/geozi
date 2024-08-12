@@ -26,7 +26,7 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <th>Type</th>
           <th>Tool</th>
           <th>Language</th>
-          <th>Web Element</th>
+          <th>Element</th>
         </tr>
         <tr>
           <td>Functional</td>
