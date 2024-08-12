@@ -17,25 +17,26 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
 * Software and API testing,
 * Requirements engineering.
 
-### Hands-on projects[^1]
+### Hands-on projects
 
-<table>
-  <tr>
-    <td>
-      <table>
-        <caption><h4>Testing</h4></caption>
+<div align="center">
+        <table>
+        <caption><h4>Software testing</h4></caption>
         <tr>
+          <th>Type</th>
           <th>Tool</th>
           <th>Project</th>
         </tr>
         <tr>
+          <td>Functional</td>
           <td>Selenium</td>
-          <td><a href="https://github.com/geozi/selenium-java-junit-feature1">Pop-up window</a> -f</td>
+          <td><a href="https://github.com/geozi/selenium-java-junit-feature1">Pop-up window</a></td>
         </tr>
       </table>
-    </td>
-    <td>
-      <table>
+</div>
+
+<div align="center">
+        <table>
         <caption><h4>Backend development</h4></caption>
         <tr>
           <th>Framework</th>
@@ -46,9 +47,10 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td><a href="https://github.com/geozi/review-app">Review app</a></td>
         </tr>
       </table>
-    </td>
-    <td>
-      <table>
+</div>
+
+<div align="center">
+        <table>
         <caption><h4>Frontend development</h4></caption>
         <tr>
           <th>Framework</th>
@@ -59,8 +61,5 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td><a href="https://github.com/geozi/reviewapp-frontend">Review app</a></td>
         </tr>
       </table>
-    </td>
-  </tr>
-</table>
+</div>
 
-[^1]: Testing projects are categorized as follows: -u for unit, -f for functional, and -p for performance testing.
