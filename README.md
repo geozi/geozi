@@ -17,26 +17,49 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
 * Software and API testing,
 * Requirements engineering.
 
-
-### Hands-on projects
-
-#### Functional testing
-
-| Stack  |  Project   |
-| ----------  | ---------- | 
-| Selenium, Java, JUnit | [Pop-up window](https://github.com/geozi/selenium-java-junit-feature1) |
-
-#### Backend development
-
-| Framework | Project |
-| ----------  | ---------- | 
-| Spring | [Review app](https://github.com/geozi/review-app) |
-
-#### Frontend development
-
-| Framework | Project |
-| ----------  | ---------- | 
-| Angular | [Review app](https://github.com/geozi/reviewapp-frontend)|
-
+<table>
+  <caption><h3>Hands-on projects</h3></caption>
+  <tr>
+    <td>
+      <table>
+        <caption><h4>Functional testing</h4></caption>
+        <tr>
+          <th>Tool</th>
+          <th>Project</th>
+        </tr>
+        <tr>
+          <td>Selenium</td>
+          <td><a href="https://github.com/geozi/selenium-java-junit-feature1">Pop-up window test</a></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <caption><h4>Backend development</h4></caption>
+        <tr>
+          <th>Framework</th>
+          <th>Project</th>
+        </tr>
+        <tr>
+          <td>Spring</td>
+          <td><a href="https://github.com/geozi/review-app">Review app</a></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <caption><h4>Frontend development</h4></caption>
+        <tr>
+          <th>Framework</th>
+          <th>Project</th>
+        </tr>
+        <tr>
+          <td>Angular</td>
+          <td><a href="https://github.com/geozi/reviewapp-frontend">Review app</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
