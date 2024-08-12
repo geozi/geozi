@@ -17,21 +17,20 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
 * Software and API testing,
 * Requirements engineering.
 
+### Hands-on projects[^1]
+
 <table>
-  <caption><h3>Hands-on projects</h3></caption>
   <tr>
     <td>
       <table>
         <caption><h4>Testing</h4></caption>
         <tr>
-          <th>Type</th>
           <th>Tool</th>
           <th>Project</th>
         </tr>
         <tr>
-          <td>Functional</td>
           <td>Selenium</td>
-          <td><a href="https://github.com/geozi/selenium-java-junit-feature1">Pop-up window test</a></td>
+          <td><a href="https://github.com/geozi/selenium-java-junit-feature1">Pop-up window</a> -f</td>
         </tr>
       </table>
     </td>
@@ -64,4 +63,4 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
   </tr>
 </table>
 
-
+[^1]: Testing projects are categorized as follows: -u for unit, -f for functional, and -e for exploratory testing.
