@@ -22,12 +22,14 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
   <tr>
     <td>
       <table>
-        <caption><h4>Functional testing</h4></caption>
+        <caption><h4>Testing</h4></caption>
         <tr>
+          <th>Type</th>
           <th>Tool</th>
           <th>Project</th>
         </tr>
         <tr>
+          <td>Functional</td>
           <td>Selenium</td>
           <td><a href="https://github.com/geozi/selenium-java-junit-feature1">Pop-up window test</a></td>
         </tr>
