@@ -17,14 +17,26 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
 * Software and API testing,
 * Requirements engineering.
 
-### Stats
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geozi&hide_progress=true)
+### Hands-on projects
 
-### Skills
+#### Functional testing
 
-| Languages | Build Tools | Frameworks | DBMS | IDEs/Text Editors | API Tools |
-| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python&theme=light" /> | <img src="https://skillicons.dev/icons?i=gradle,maven&theme=light" /> | <img src="https://skillicons.dev/icons?i=spring,bootstrap,angular&theme=light" /> | <img src="https://skillicons.dev/icons?i=mysql,mongo&theme=light" /> | <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light" /> | <img src="https://skillicons.dev/icons?i=postman" /> |
+| Stack  |  Project   |
+| ----------  | ---------- | 
+| Selenium, Java, JUnit | [Pop-up window](https://github.com/geozi/selenium-java-junit-feature1) |
+
+#### Backend development
+
+| Framework | Project |
+| ----------  | ---------- | 
+| Spring | [Review app](https://github.com/geozi/review-app) |
+
+#### Frontend development
+
+| Framework | Project |
+| ----------  | ---------- | 
+| Angular | [Review app](https://github.com/geozi/reviewapp-frontend)|
+
 
 
