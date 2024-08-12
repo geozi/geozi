@@ -63,4 +63,4 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
   </tr>
 </table>
 
-[^1]: Testing projects are categorized as follows: -u for unit, -f for functional, and -e for exploratory testing.
+[^1]: Testing projects are categorized as follows: -u for unit, -f for functional, and -p for performance testing.
