@@ -25,11 +25,13 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
         <tr>
           <th>Type</th>
           <th>Tool</th>
+          <th>Language</th>
           <th>Project</th>
         </tr>
         <tr>
           <td>Functional</td>
           <td>Selenium</td>
+          <td>Java</td>
           <td><a href="https://github.com/geozi/selenium-java-junit-feature1">Pop-up window</a></td>
         </tr>
       </table>
