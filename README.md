@@ -24,7 +24,7 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
         <caption><h4>Software testing</h4></caption>
         <tr>
           <th>Type</th>
-          <th>Tool</th>
+          <th>Tool(s)</th>
           <th>Language</th>
           <th>Element(s)</th>
         </tr>
