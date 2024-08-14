@@ -26,19 +26,25 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <th>Type</th>
           <th>Tool</th>
           <th>Language</th>
-          <th>Element</th>
+          <th>Element(s)</th>
         </tr>
         <tr>
           <td>Functional</td>
           <td>Selenium</td>
           <td>Java</td>
-          <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">pop-up window</a></td>
+          <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
         </tr>
         <tr>
           <td>Functional</td>
           <td>Selenium</td>
           <td>Java</td>
           <td><a href="https://github.com/geozi/selenium-java-junit-ulelement">ul element</a></td>
+        </tr>
+        <tr>
+          <td>Unit</td>
+          <td>Jest</td>
+          <td>Vanilla JavaScript</td>
+          <td><a href="https://github.com/geozi/javascript-jest">JS functions</a></td>
         </tr>
       </table>
 </div>
