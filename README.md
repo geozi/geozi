@@ -30,13 +30,13 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
         </tr>
         <tr>
           <td>Functional</td>
-          <td>Selenium</td>
+          <td>Selenium, JUnit</td>
           <td>Java</td>
           <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
         </tr>
         <tr>
           <td>Functional</td>
-          <td>Selenium</td>
+          <td>Selenium, JUnit</td>
           <td>Java</td>
           <td><a href="https://github.com/geozi/selenium-java-junit-ulelement">ul element</a></td>
         </tr>
