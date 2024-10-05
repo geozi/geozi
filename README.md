@@ -52,6 +52,12 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td>Java</td>
           <td><a href="https://github.com/geozi/java-junit">Class methods</a></td>
         </tr>
+         <tr>
+          <td>Functional</td>
+          <td>Jest</td>
+          <td>JavaScript</td>
+          <td><a href="https://github.com/geozi/selenium-javascript-jest-navbar">Navbar</a></td>
+        </tr>
       </table>
 </div>
 
