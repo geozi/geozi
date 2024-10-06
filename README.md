@@ -38,7 +38,7 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td>Functional</td>
           <td>Selenium, JUnit</td>
           <td>Java</td>
-          <td><a href="https://github.com/geozi/selenium-java-junit-ulelement">ul element</a></td>
+          <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
         </tr>
         <tr>
           <td>Unit</td>
@@ -57,6 +57,12 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td>Jest</td>
           <td>Vanilla JavaScript</td>
           <td><a href="https://github.com/geozi/selenium-javascript-jest-navbar">Navbar</a></td>
+        </tr>
+        <tr>
+          <td>Functional</td>
+          <td>Jest</td>
+          <td>Vanilla JavaScript</td>
+          <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
         </tr>
       </table>
 </div>
