@@ -64,6 +64,12 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td>Vanilla JavaScript</td>
           <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
         </tr>
+        <tr>
+          <td>Unit</td>
+          <td>Jasmine</td>
+          <td>Vanilla JavaScript</td>
+          <td><a href="https://github.com/geozi/javascript-jasmine"> JS functions </a></td>
+        </tr>
       </table>
 </div>
 
