@@ -28,6 +28,24 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <th>Element(s)</th>
         </tr>
         <tr>
+          <td>Unit</td>
+          <td>JUnit</td>
+          <td>Java</td>
+          <td><a href="https://github.com/geozi/java-junit">Class methods</a></td>
+        </tr>
+        <tr>
+          <td>Unit</td>
+          <td>Jest</td>
+          <td>Vanilla JavaScript</td>
+          <td><a href="https://github.com/geozi/javascript-jest">JS functions</a></td>
+        </tr>
+         <tr>
+          <td>Unit</td>
+          <td>Jasmine</td>
+          <td>Vanilla JavaScript</td>
+          <td><a href="https://github.com/geozi/javascript-jasmine"> JS functions </a></td>
+        </tr>
+        <tr>
           <td>Functional</td>
           <td>Selenium, JUnit</td>
           <td>Java</td>
@@ -38,18 +56,6 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td>Selenium, JUnit</td>
           <td>Java</td>
           <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
-        </tr>
-        <tr>
-          <td>Unit</td>
-          <td>Jest</td>
-          <td>Vanilla JavaScript</td>
-          <td><a href="https://github.com/geozi/javascript-jest">JS functions</a></td>
-        </tr>
-        <tr>
-          <td>Unit</td>
-          <td>JUnit</td>
-          <td>Java</td>
-          <td><a href="https://github.com/geozi/java-junit">Class methods</a></td>
         </tr>
          <tr>
           <td>Functional</td>
@@ -62,12 +68,6 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td>Selenium, Jest</td>
           <td>Vanilla JavaScript</td>
           <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
-        </tr>
-        <tr>
-          <td>Unit</td>
-          <td>Jasmine</td>
-          <td>Vanilla JavaScript</td>
-          <td><a href="https://github.com/geozi/javascript-jasmine"> JS functions </a></td>
         </tr>
       </table>
 </div>
