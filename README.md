@@ -13,9 +13,8 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
 
 ### Interests
 
-* Software development,
-* Software and API testing,
-* Requirements engineering.
+* Application development,
+* Software testing.
 
 ### Hands-on projects
 
