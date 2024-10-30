@@ -60,6 +60,12 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
           <td>Vanilla JavaScript</td>
           <td><a href="https://github.com/geozi/javascript-jasmine"> JS functions </a></td>
         </tr>
+         <tr>
+          <td>Unit</td>
+          <td>PyTest</td>
+          <td>Python</td>
+          <td><a href="https://github.com/geozi/python-pytest"> Functions </a></td>
+        </tr>
         <tr>
           <td>Functional</td>
           <td>Selenium, JUnit</td>
