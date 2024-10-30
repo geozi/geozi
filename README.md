@@ -17,6 +17,21 @@ My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied I
 * Software testing.
 
 ### Hands-on projects
+<div align="center">
+        <table>
+        <caption><h4>Exploratory programming</h4></caption>
+        <tr>
+          <th>Language(s)</th>
+          <th>Tool(s)</th>
+          <th>Element(s)</th>
+        </tr>
+        <tr>
+          <td>JavaScript</td>
+          <td>jsdom, Selenium, Jest</td>
+          <td><a href="https://github.com/geozi/javascript-jsdom-selenium-jest">Randomly chosen websites</a></td>
+        </tr>
+        </table>
+</div>
 
 <div align="center">
         <table>
