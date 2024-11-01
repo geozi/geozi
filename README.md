@@ -8,13 +8,14 @@
 
 ### About me
 
-My name is Georgios, I am a graduate in Cultural Anthropology (MA) and Applied Informatics (MSc), and I have embarked on a journey to expand my horizons on programming and software development. A journey that took me, abstraction to abstraction, from the foundations of computer organization to the echelons of high-level programming languages: Java, Javascript, and Python. I have learned a lot, but I am aware that I have only scratched the surface. More is to come and the journey continues!
+My name is Georgios, I hold a Master’s degree in Applied Informatics and have completed a professional training program in Fullstack Development. I possess hands-on experience in programming with Java, JavaScript, TypeScript, and Python.
 
+I am a strong advocate of test-driven development, where automated testing is central to learning and enhancing knowledge of programming languages and paradigms. I am actively seeking a role where I can apply my current skillset and continuously acquire new ones.
 
 ### Interests
 
-* Application development,
-* Software testing.
+* Programming languages,
+* Automation testing.
 
 ### Hands-on projects
 <div align="center">
