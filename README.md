@@ -81,7 +81,7 @@ I am a strong advocate of test-driven development, where automated testing is ce
           <td>Unit</td>
           <td>PyTest</td>
           <td>Python</td>
-          <td><a href="https://github.com/geozi/python-pytest"> Functions </a></td>
+          <td><a href="https://github.com/geozi/python-pytest"> Classes and Functions </a></td>
         </tr>
         <tr>
           <td>Functional</td>
