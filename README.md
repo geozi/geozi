@@ -20,18 +20,34 @@ I am a strong advocate of test-driven development, where automated testing is ce
 ### Hands-on projects
 <div align="center">
         <table>
-        <caption><h4>Exploratory programming</h4></caption>
+        <caption><h4>Backend development</h4></caption>
         <tr>
-          <th>Language(s)</th>
-          <th>Tool(s)</th>
-          <th>Element(s)</th>
+          <th>Framework</th>
+          <th>Language</th>
+          <th>Project</th>
         </tr>
         <tr>
-          <td>JavaScript</td>
-          <td>jsdom, Selenium, Jest</td>
-          <td><a href="https://github.com/geozi/javascript-jsdom-selenium-jest">Randomly chosen websites</a></td>
+          <td>Spring</td>
+          <td>Java</td>
+          <td><a href="https://github.com/geozi/review-app">Review app</a></td>
         </tr>
-        </table>
+      </table>
+</div>
+
+<div align="center">
+        <table>
+        <caption><h4>Frontend development</h4></caption>
+        <tr>
+          <th>Framework</th>
+          <th>Language</th>
+          <th>Project</th>
+        </tr>
+        <tr>
+          <td>Angular</td>
+          <td>Typescript</td>
+          <td><a href="https://github.com/geozi/reviewapp-frontend">Review app</a></td>
+        </tr>
+      </table>
 </div>
 
 <div align="center">
@@ -96,29 +112,17 @@ I am a strong advocate of test-driven development, where automated testing is ce
 
 <div align="center">
         <table>
-        <caption><h4>Backend development</h4></caption>
+        <caption><h4>Exploratory programming</h4></caption>
         <tr>
-          <th>Framework</th>
-          <th>Project</th>
+          <th>Language(s)</th>
+          <th>Tool(s)</th>
+          <th>Element(s)</th>
         </tr>
         <tr>
-          <td>Spring</td>
-          <td><a href="https://github.com/geozi/review-app">Review app</a></td>
+          <td>JavaScript</td>
+          <td>jsdom, Selenium, Jest</td>
+          <td><a href="https://github.com/geozi/javascript-jsdom-selenium-jest">Randomly chosen websites</a></td>
         </tr>
-      </table>
-</div>
-
-<div align="center">
-        <table>
-        <caption><h4>Frontend development</h4></caption>
-        <tr>
-          <th>Framework</th>
-          <th>Project</th>
-        </tr>
-        <tr>
-          <td>Angular</td>
-          <td><a href="https://github.com/geozi/reviewapp-frontend">Review app</a></td>
-        </tr>
-      </table>
+        </table>
 </div>
 
