@@ -32,6 +32,11 @@ I am a strong advocate of test-driven development, where automated testing is ce
       <th>Framework(s)</th> 
       <th>Repo</th>
     </tr>
+     <tr>
+       <td>Backend development</td>
+       <td>Jest, Express</td>
+       <td><a href="https://github.com/geozi/nodejs-javascript-task-manager/">Task manager app</a></td>
+     </tr>
     <tr>
       <td>Unit testing</td>
       <td>Jest</td>
