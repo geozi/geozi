@@ -17,34 +17,102 @@ I am a strong advocate of test-driven development, where automated testing is ce
 * Programming languages,
 * Automation testing.
 
-### Hands-on projects
+### Demo projects
+
 <div align="center">
-        <table>
-        <caption><h4>Backend development</h4></caption>
-        <tr>
-          <th>Framework</th>
-          <th>Language</th>
-          <th>Project</th>
-        </tr>
-        <tr>
-          <td>Spring</td>
-          <td>Java</td>
-          <td><a href="https://github.com/geozi/review-app">Review app</a></td>
-        </tr>
-      </table>
+  <table>
+    <h4>JavaScript</h4>
+    <caption>
+      <a href="https://github.com/LelouchFR/skill-icons">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,selenium,expressjs,mongoose,jest"/>
+      </a><img src="https://github.com/user-attachments/assets/f6592d31-c67e-43b2-8804-3b2d68fc3220"/>
+    </caption>
+    <tr>
+      <th>Purpose</th>
+      <th>Framework(s)</th> 
+      <th>Repo</th>
+    </tr>
+    <tr>
+      <td>Unit testing</td>
+      <td>Jest</td>
+      <td><a href="https://github.com/geozi/javascript-jest">JS functions</a></td>
+    </tr>
+    <tr>
+      <td>Unit testing</td>
+      <td>Jasmine</td>
+      <td><a href="https://github.com/geozi/javascript-jasmine"> JS functions </a></td>
+    </tr>
+     <tr>
+      <td>Functional testing</td>
+      <td>Selenium, Jest</td>
+      <td><a href="https://github.com/geozi/selenium-javascript-jest-navbar">Navbar</a></td>
+    </tr>
+    <tr>
+      <td>Functional testing</td>
+      <td>Selenium, Jest</td>
+      <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
+    </tr>
+    <tr>
+      <td>Exploratory programming</td>
+      <td>Selenium, Jest</td>
+      <td><a href="https://github.com/geozi/javascript-jsdom-selenium-jest">Randomly chosen websites</a></td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
+  <table>
+    <h4>Java</h4>
+    <caption>
+      <a href="https://github.com/LelouchFR/skill-icons">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,selenium"/>
+      </a><img src="https://github.com/user-attachments/assets/d287d8a3-479c-420d-997d-fbfe55513b73"/>
+    </caption>
+    <tr>
+      <th>Purpose</th>
+      <th>Framework(s)</th> 
+      <th>Repo</th>
+    </tr>
+    <tr>
+      <td>Backend development</td>
+      <td>Spring</td>
+      <td><a href="https://github.com/geozi/review-app">Review app</a></td>
+   </tr>
+    <tr>
+      <td>Unit testing</td>
+      <td>JUnit</td>
+      <td><a href="https://github.com/geozi/java-junit">Class methods</a></td>
+  </tr>
+  <tr>
+    <td>Functional testing</td>
+    <td>Selenium, JUnit</td>
+    <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
+  </tr>
+  <tr>
+    <td>Functional testing</td>
+    <td>Selenium, JUnit</td>
+    <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
+  </tr>
+  </table>
+</div>
+
+
+<div align="center">
         <table>
-        <caption><h4>Frontend development</h4></caption>
+        <h4>Typescript</h4>
+        <caption>
+          <a href="https://github.com/LelouchFR/skill-icons">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=angular"/>
+          </a>
+        </caption>
         <tr>
-          <th>Framework</th>
-          <th>Language</th>
-          <th>Project</th>
+          <th>Purpose</th>
+          <th>Framework(s)</th> 
+          <th>Repo</th>
         </tr>
         <tr>
+          <td>Frontend development</td>
           <td>Angular</td>
-          <td>Typescript</td>
           <td><a href="https://github.com/geozi/reviewapp-frontend">Review app</a></td>
         </tr>
       </table>
@@ -52,77 +120,23 @@ I am a strong advocate of test-driven development, where automated testing is ce
 
 <div align="center">
         <table>
-        <caption><h4>Software testing</h4></caption>
+          <h4>Python</h4>
+        <caption>
+          <img src="https://github.com/user-attachments/assets/9938b3da-de32-4503-9883-ac4656d60b7c"/>
+        </caption>
         <tr>
-          <th>Type</th>
-          <th>Tool(s)</th>
-          <th>Language</th>
-          <th>Element(s)</th>
-        </tr>
-        <tr>
-          <td>Unit</td>
-          <td>JUnit</td>
-          <td>Java</td>
-          <td><a href="https://github.com/geozi/java-junit">Class methods</a></td>
-        </tr>
-        <tr>
-          <td>Unit</td>
-          <td>Jest</td>
-          <td>Vanilla JavaScript</td>
-          <td><a href="https://github.com/geozi/javascript-jest">JS functions</a></td>
+          <th>Purpose</th>
+          <th>Framework(s)</th> 
+          <th>Repo</th>
         </tr>
          <tr>
-          <td>Unit</td>
-          <td>Jasmine</td>
-          <td>Vanilla JavaScript</td>
-          <td><a href="https://github.com/geozi/javascript-jasmine"> JS functions </a></td>
-        </tr>
-         <tr>
-          <td>Unit</td>
+          <td>Unit testing</td>
           <td>PyTest</td>
-          <td>Python</td>
           <td><a href="https://github.com/geozi/python-pytest"> Classes and Functions </a></td>
-        </tr>
-        <tr>
-          <td>Functional</td>
-          <td>Selenium, JUnit</td>
-          <td>Java</td>
-          <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
-        </tr>
-        <tr>
-          <td>Functional</td>
-          <td>Selenium, JUnit</td>
-          <td>Java</td>
-          <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
-        </tr>
-         <tr>
-          <td>Functional</td>
-          <td>Selenium, Jest</td>
-          <td>Vanilla JavaScript</td>
-          <td><a href="https://github.com/geozi/selenium-javascript-jest-navbar">Navbar</a></td>
-        </tr>
-        <tr>
-          <td>Functional</td>
-          <td>Selenium, Jest</td>
-          <td>Vanilla JavaScript</td>
-          <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
         </tr>
       </table>
 </div>
 
-<div align="center">
-        <table>
-        <caption><h4>Exploratory programming</h4></caption>
-        <tr>
-          <th>Language(s)</th>
-          <th>Tool(s)</th>
-          <th>Element(s)</th>
-        </tr>
-        <tr>
-          <td>JavaScript</td>
-          <td>jsdom, Selenium, Jest</td>
-          <td><a href="https://github.com/geozi/javascript-jsdom-selenium-jest">Randomly chosen websites</a></td>
-        </tr>
-        </table>
-</div>
+
+
 
