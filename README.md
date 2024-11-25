@@ -70,7 +70,7 @@ I am a strong advocate of test-driven development, where automated testing is ce
     <h4>Java</h4>
     <caption>
       <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,selenium"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,gradle,selenium"/>
       </a><img src="https://github.com/user-attachments/assets/d287d8a3-479c-420d-997d-fbfe55513b73"/>
     </caption>
     <tr>
