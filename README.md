@@ -17,6 +17,27 @@ I am a strong advocate of test-driven development, where automated testing is ce
 * Programming languages,
 * Automation testing.
 
+### Tools/OS I have used
+
+<div align="center">
+  <table>
+    <tr>
+      <th>OS</th>
+      <th>IDEs</th>
+      <th>DBMS</th>
+      <th>API</th>
+      <th>Design</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=mint"/></a></td>
+       <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea,eclipse,vscode"/></a></td>
+       <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongo"/></a></td>
+      <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman"/></a></td>
+      <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma"/></a><img src="https://github.com/user-attachments/assets/25a8e072-b79d-44d6-97f3-4d4ebe418876"/></td>
+    </tr>
+  </table>
+</div>
+
 ### Demo projects
 
 <div align="center">
