@@ -33,7 +33,7 @@ I am a strong advocate of test-driven development, where automated testing is ce
        <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea,eclipse,vscode"/></a></td>
        <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongo"/></a></td>
       <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman"/></a></td>
-      <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma"/></a><img src="https://github.com/user-attachments/assets/25a8e072-b79d-44d6-97f3-4d4ebe418876"/></td>
+      <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma"/></a></td>
     </tr>
   </table>
 </div>
