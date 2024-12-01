@@ -14,8 +14,9 @@ I am a strong advocate of test-driven development, where automated testing is ce
 
 ### Interests
 
-* Programming languages,
-* Automation testing.
+* Server-side and client-side programming,
+* Software testing,
+* API development.
 
 ### Tools/OS I have used
 
