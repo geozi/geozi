@@ -56,19 +56,9 @@ I am a strong advocate of test-driven development, where automated testing is ce
     </tr>
      <tr>
        <td>Backend development</td>
-       <td>Jest, Express</td>
-       <td><a href="https://github.com/geozi/nodejs-javascript-task-manager/">Task manager app</a></td>
+       <td>Jasmine, Express</td>
+       <td><a href="https://github.com/geozi/nodejs-javascript-blog-api/">Blog API</a></td>
      </tr>
-    <tr>
-      <td>Unit testing</td>
-      <td>Jest</td>
-      <td><a href="https://github.com/geozi/javascript-jest">JS functions</a></td>
-    </tr>
-    <tr>
-      <td>Unit testing</td>
-      <td>Jasmine</td>
-      <td><a href="https://github.com/geozi/javascript-jasmine"> JS functions </a></td>
-    </tr>
      <tr>
       <td>Functional testing</td>
       <td>Selenium, Jest</td>
@@ -78,11 +68,6 @@ I am a strong advocate of test-driven development, where automated testing is ce
       <td>Functional testing</td>
       <td>Selenium, Jest</td>
       <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
-    </tr>
-    <tr>
-      <td>Exploratory programming</td>
-      <td>Selenium, Jest</td>
-      <td><a href="https://github.com/geozi/javascript-jsdom-selenium-jest">Randomly chosen websites</a></td>
     </tr>
   </table>
 </div>
