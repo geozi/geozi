@@ -55,7 +55,7 @@ I am a strong advocate of test-driven development, where automated testing is ce
       <th>Repo</th>
     </tr>
      <tr>
-       <td>Backend development</td>
+       <td>Backend (REST API) development</td>
        <td>Jasmine, Express</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-blog-api/">Blog API</a></td>
      </tr>
