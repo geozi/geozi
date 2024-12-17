@@ -57,7 +57,7 @@ The purpose of the following projects is to demonstrate my ability to organize, 
       <th>Repo</th>
     </tr>
      <tr>
-       <td>Backend (REST API) development</td>
+       <td>Backend REST API development</td>
        <td>Jasmine, Express</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-blog-api/">Blog API</a></td>
      </tr>
@@ -88,7 +88,7 @@ The purpose of the following projects is to demonstrate my ability to organize, 
       <th>Repo</th>
     </tr>
     <tr>
-      <td>Backend development</td>
+      <td>Backend REST API development</td>
       <td>Spring, JUnit, Swagger</td>
       <td><a href="https://github.com/geozi/review-app">Review app</a></td>
    </tr>
