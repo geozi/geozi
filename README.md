@@ -79,7 +79,7 @@ The purpose of the following projects is to demonstrate my ability to organize, 
     <h4>Java</h4>
     <caption>
       <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,gradle,selenium"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,gradle,selenium,swagger"/>
       </a><img src="https://github.com/user-attachments/assets/d287d8a3-479c-420d-997d-fbfe55513b73"/>
     </caption>
     <tr>
@@ -89,7 +89,7 @@ The purpose of the following projects is to demonstrate my ability to organize, 
     </tr>
     <tr>
       <td>Backend development</td>
-      <td>Spring</td>
+      <td>Spring, JUnit, Swagger</td>
       <td><a href="https://github.com/geozi/review-app">Review app</a></td>
    </tr>
     <tr>
