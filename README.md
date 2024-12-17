@@ -41,6 +41,8 @@ I am a strong advocate of test-driven development, where automated testing is ce
 
 ### Demo projects
 
+The purpose of the following projects is to demonstrate my ability to organize, document, and test code. Despite its simplicity and limited scope, each project is an effort to incorporate best practices in different areas of software development.
+
 <div align="center">
   <table>
     <h4>JavaScript</h4>
