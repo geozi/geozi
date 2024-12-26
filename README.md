@@ -18,27 +18,6 @@ I am a strong advocate of test-driven development, where automated testing is ce
 * Software testing,
 * API development.
 
-### Tools/OS I have used
-
-<div align="center">
-  <table>
-    <tr>
-      <th>OS</th>
-      <th>IDEs</th>
-      <th>DBMS</th>
-      <th>API</th>
-      <th>Design</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=mint"/></a></td>
-       <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=idea,eclipse,vscode"/></a></td>
-       <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongo"/></a></td>
-      <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman"/></a></td>
-      <td><a href="https://github.com/LelouchFR/skill-icons"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma"/></a></td>
-    </tr>
-  </table>
-</div>
-
 ### Demo projects
 
 The purpose of the following projects is to demonstrate my ability to organize, document, and test code. Despite its simplicity and limited scope, each project is an effort to incorporate best practices in different areas of software development.
