@@ -41,12 +41,12 @@ The purpose of the following projects is to demonstrate my ability to organize, 
        <td><a href="https://github.com/geozi/nodejs-javascript-blog-api/">Blog API</a></td>
      </tr>
      <tr>
-      <td>Functional testing</td>
+      <td>User Interface (UI) testing</td>
       <td>Selenium, Jest</td>
       <td><a href="https://github.com/geozi/selenium-javascript-jest-navbar">Navbar</a></td>
     </tr>
     <tr>
-      <td>Functional testing</td>
+      <td>User Interface (UI) testing</td>
       <td>Selenium, Jest</td>
       <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
     </tr>
@@ -77,12 +77,12 @@ The purpose of the following projects is to demonstrate my ability to organize, 
       <td><a href="https://github.com/geozi/java-junit">Class methods</a></td>
   </tr>
   <tr>
-    <td>Functional testing</td>
+    <td>User Interface (UI) testing</td>
     <td>Selenium, JUnit</td>
     <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
   </tr>
   <tr>
-    <td>Functional testing</td>
+    <td>User Interface (UI) testing</td>
     <td>Selenium, JUnit</td>
     <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
   </tr>
