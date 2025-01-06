@@ -68,12 +68,12 @@ The purpose of the following projects is to demonstrate my ability to organize, 
     </caption>
     <tr>
       <th>Purpose</th>
-      <th>Framework(s)</th> 
+      <th>Framework(s) & Tool(s)</th> 
       <th>Repo</th>
     </tr>
     <tr>
       <td>Backend REST API development</td>
-      <td>Spring, JUnit, Swagger</td>
+      <td>Spring, JUnit, Swagger, Javadoc</td>
       <td><a href="https://github.com/geozi/review-app">Review app</a></td>
    </tr>
     <tr>
@@ -83,12 +83,12 @@ The purpose of the following projects is to demonstrate my ability to organize, 
   </tr>
   <tr>
     <td>User Interface (UI) testing</td>
-    <td>Selenium, JUnit</td>
+    <td>Selenium, JUnit, Javadoc</td>
     <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
   </tr>
   <tr>
     <td>User Interface (UI) testing</td>
-    <td>Selenium, JUnit</td>
+    <td>Selenium, JUnit, Javadoc</td>
     <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
   </tr>
   </table>
