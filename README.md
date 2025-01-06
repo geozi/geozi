@@ -32,12 +32,17 @@ The purpose of the following projects is to demonstrate my ability to organize, 
     </caption>
     <tr>
       <th>Purpose</th>
-      <th>Framework(s)</th> 
+      <th>Framework(s) & Tool(s)</th> 
       <th>Repo</th>
     </tr>
      <tr>
        <td>Backend REST API development</td>
-       <td>Jasmine, Express</td>
+       <td>Mongoose, Jest, Express, JSDoc</td>
+       <td><a href="https://github.com/geozi/nodejs-javascript-warehouse-manager">Warehouse manager API</a></td>
+     </tr>
+     <tr>
+       <td>Backend REST API development</td>
+       <td>Mongoose, Jasmine, Express</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-blog-api/">Blog API</a></td>
      </tr>
      <tr>
