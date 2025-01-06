@@ -8,9 +8,7 @@
 
 ### About me
 
-My name is Georgios, I hold a Master’s degree in Applied Informatics and have completed a professional training program in Fullstack Development. I possess hands-on experience in programming with Java, JavaScript, TypeScript, and Python.
-
-I am a strong advocate of test-driven development, where automated testing is central to learning and enhancing knowledge of programming languages and paradigms. I am actively seeking a role where I can apply my current skillset and continuously acquire new ones.
+My name is Georgios, I hold a Master’s degree in Applied Informatics and have completed a professional training program in Fullstack Development. I possess hands-on experience in programming with Java, JavaScript, TypeScript, and Python. I am actively seeking a role where I can apply my current skillset and continuously acquire new ones.
 
 ### Interests
 
