@@ -25,7 +25,7 @@ The purpose of the following projects is to demonstrate my ability to organize, 
     <h4>JavaScript</h4>
     <caption>
       <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,selenium,expressjs,mongoose,jest"/>
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,selenium,expressjs,mongoose,jest,swagger"/>
       </a><img src="https://github.com/user-attachments/assets/f6592d31-c67e-43b2-8804-3b2d68fc3220"/>
     </caption>
     <tr>
@@ -33,6 +33,11 @@ The purpose of the following projects is to demonstrate my ability to organize, 
       <th>Framework(s) & Tool(s)</th> 
       <th>Repo</th>
     </tr>
+     <tr>
+       <td>Backend REST API development</td>
+       <td>Mongoose, Jasmine, Express, JSDoc, Swagger</td>
+       <td><a href="https://github.com/geozi/nodejs-javascript-helpdesk">HelpDesk API</a></td>
+     </tr>
      <tr>
        <td>Backend REST API development</td>
        <td>Mongoose, Jest, Express, JSDoc</td>
