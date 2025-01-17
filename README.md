@@ -18,7 +18,7 @@ My name is Georgios, I hold a Master’s degree in Applied Informatics and have 
 
 ### Demo projects
 
-The purpose of the following projects is to demonstrate my ability to organize, document, and test code. Despite its simplicity and limited scope, each project is an effort to incorporate best practices in different areas of software development.
+The purpose of the following projects is to demonstrate my ability to organize, document, and test code.
 
 <div align="center">
   <table>
