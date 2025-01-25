@@ -22,97 +22,59 @@ The purpose of the following projects is to demonstrate my ability to organize, 
 
 <div align="center">
   <table>
-    <h4>JavaScript</h4>
-    <caption>
-      <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,selenium,expressjs,mongoose,jest,swagger"/>
-      </a><img src="https://github.com/user-attachments/assets/f6592d31-c67e-43b2-8804-3b2d68fc3220"/>
-    </caption>
+    <h4>Backend development</h4>
+    <caption></caption>
     <tr>
       <th>Purpose</th>
+      <th>Language</th>
       <th>Framework(s) & Tool(s)</th> 
+      <th>DBMS</th>
       <th>Repo</th>
     </tr>
      <tr>
-       <td>Backend REST API development</td>
+       <td>REST API development</td>
+       <td>JavaScript</td>
        <td>Mongoose, Jasmine, Express, JSDoc, Swagger</td>
+       <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-helpdesk">HelpDesk API</a></td>
      </tr>
      <tr>
-       <td>Backend REST API development</td>
+       <td>REST API development</td>
+       <td>JavaScript</td>
        <td>Mongoose, Jest, Express, JSDoc</td>
+       <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-warehouse-manager">Warehouse manager API</a></td>
      </tr>
      <tr>
-       <td>Backend REST API development</td>
+       <td>REST API development</td>
+       <td>JavaScript</td>
        <td>Mongoose, Jasmine, Express</td>
+       <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-blog-api/">Blog API</a></td>
      </tr>
-     <tr>
-      <td>User Interface (UI) testing</td>
-      <td>Selenium, Jest</td>
-      <td><a href="https://github.com/geozi/selenium-javascript-jest-navbar">Navbar</a></td>
-    </tr>
-    <tr>
-      <td>User Interface (UI) testing</td>
-      <td>Selenium, Jest</td>
-      <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <h4>Java</h4>
-    <caption>
-      <a href="https://github.com/LelouchFR/skill-icons">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,maven,gradle,selenium,swagger"/>
-      </a><img src="https://github.com/user-attachments/assets/d287d8a3-479c-420d-997d-fbfe55513b73"/>
-    </caption>
-    <tr>
-      <th>Purpose</th>
-      <th>Framework(s) & Tool(s)</th> 
-      <th>Repo</th>
-    </tr>
-    <tr>
-      <td>Backend REST API development</td>
+      <tr>
+      <td>REST API development</td>
+      <td>Java</td>
       <td>Spring, JUnit, Swagger, Javadoc</td>
+      <td>MongoDB</td>
       <td><a href="https://github.com/geozi/review-app">Review app</a></td>
-   </tr>
-    <tr>
-      <td>Unit testing</td>
-      <td>JUnit</td>
-      <td><a href="https://github.com/geozi/java-junit">Class methods</a></td>
-  </tr>
-  <tr>
-    <td>User Interface (UI) testing</td>
-    <td>Selenium, JUnit, Javadoc</td>
-    <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
-  </tr>
-  <tr>
-    <td>User Interface (UI) testing</td>
-    <td>Selenium, JUnit, Javadoc</td>
-    <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
-  </tr>
+    </tr>
   </table>
 </div>
-
 
 <div align="center">
         <table>
-        <h4>Typescript</h4>
-        <caption>
-          <a href="https://github.com/LelouchFR/skill-icons">
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=angular"/>
-          </a>
-        </caption>
+        <h4>Frontend development</h4>
+        <caption></caption>
         <tr>
           <th>Purpose</th>
-          <th>Framework(s)</th> 
+          <th>Language</th>
+          <th>Framework(s) & Tool(s)</th> 
           <th>Repo</th>
         </tr>
         <tr>
           <td>Frontend development</td>
+          <td>Typescript</td>
           <td>Angular</td>
           <td><a href="https://github.com/geozi/reviewapp-frontend">Review app</a></td>
         </tr>
@@ -120,23 +82,52 @@ The purpose of the following projects is to demonstrate my ability to organize, 
 </div>
 
 <div align="center">
-        <table>
-          <h4>Python</h4>
-        <caption>
-          <img src="https://github.com/user-attachments/assets/9938b3da-de32-4503-9883-ac4656d60b7c"/>
-        </caption>
-        <tr>
-          <th>Purpose</th>
-          <th>Framework(s)</th> 
-          <th>Repo</th>
-        </tr>
-         <tr>
-          <td>Unit testing</td>
-          <td>PyTest</td>
-          <td><a href="https://github.com/geozi/python-pytest"> Classes and Functions </a></td>
-        </tr>
-      </table>
+  <table>
+    <h4>Testing</h4>
+    <caption></caption>
+    <tr>
+      <th>Purpose</th>
+      <th>Language</th>
+      <th>Framework(s) & Tool(s)</th> 
+      <th>Repo</th>
+    </tr>
+    <tr>
+      <td>Unit testing</td>
+      <td>Java</td>
+      <td>JUnit</td>
+      <td><a href="https://github.com/geozi/java-junit">Class methods</a></td>
+   </tr>
+   <tr>
+    <td>User Interface (UI) testing</td>
+    <td>Java</td>
+    <td>Selenium, JUnit, Javadoc</td>
+    <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
+  </tr>
+  <tr>
+    <td>User Interface (UI) testing</td>
+    <td>Java</td>
+    <td>Selenium, JUnit, Javadoc</td>
+    <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
+  </tr>
+   <tr>
+    <td>User Interface (UI) testing</td>
+     <td>JavaScript</td>
+    <td>Selenium, Jest</td>
+    <td><a href="https://github.com/geozi/selenium-javascript-jest-navbar">Navbar</a></td>
+  </tr>
+  <tr>
+    <td>User Interface (UI) testing</td>
+    <td>JavaScript</td>
+    <td>Selenium, Jest</td>
+    <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
+  </tr>
+  </table>
 </div>
+
+
+
+
+
 
 
 
