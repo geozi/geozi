@@ -34,28 +34,28 @@ The purpose of the following projects is to demonstrate my ability to organize, 
      <tr>
        <td>Rest API</td>
        <td>Typescript</td>
-       <td>Mongoose, Mocha, Sinon, Express, express-validator, TypeDoc</td>
+       <td>Mongoose, Mocha, Sinon, Express, TypeDoc</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-typescript-task-manager">Task Manager API</a></td>
      </tr>
      <tr>
        <td>Rest API</td>
        <td>JavaScript</td>
-       <td>Mongoose, Jasmine, Express, express-validator, JSDoc, Swagger</td>
+       <td>Mongoose, Jasmine, Express, JSDoc, Swagger</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-helpdesk">HelpDesk API</a></td>
      </tr>
      <tr>
        <td>Rest API</td>
        <td>JavaScript</td>
-       <td>Mongoose, Jest, Express, exress-validator, JSDoc</td>
+       <td>Mongoose, Jest, Express, JSDoc</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-warehouse-manager">Warehouse manager API</a></td>
      </tr>
      <tr>
        <td>Rest API</td>
        <td>JavaScript</td>
-       <td>Mongoose, Jasmine, Express, express-validator</td>
+       <td>Mongoose, Jasmine, Express</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-blog-api/">Blog API</a></td>
      </tr>
