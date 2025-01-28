@@ -18,7 +18,7 @@ My name is Georgios, I hold a Master’s degree in Applied Informatics and have 
 
 ### Demo projects
 
-The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They follow a logic of _modular learning_, meaning that each project presents common elements (e.g. the same programming language and/or web framework and/or testing framework) with other projects, but they must contain at least one element that makes them distinctive.
+The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They follow a logic of _modular learning_, meaning that each project shares common elements (e.g., the same programming language, web framework, or testing framework) with other projects, but it must contain at least one distinctive element.
 
 <div align="center">
   <table>
