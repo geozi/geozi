@@ -22,7 +22,7 @@ The purpose of the following projects is to demonstrate my ability to organize, 
 
 <div align="center">
   <table>
-    <h4>Backend development</h4>
+    <h4>Backend web apps</h4>
     <caption></caption>
     <tr>
       <th>Type</th>
@@ -52,37 +52,34 @@ The purpose of the following projects is to demonstrate my ability to organize, 
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-warehouse-manager">Warehouse manager API</a></td>
      </tr>
-     <tr>
-       <td>Rest API</td>
-       <td>JavaScript</td>
-       <td>Mongoose, Jasmine, Express</td>
-       <td>MongoDB</td>
-       <td><a href="https://github.com/geozi/nodejs-javascript-blog-api/">Blog API</a></td>
-     </tr>
-      <tr>
-      <td>Rest API</td>
-      <td>Java</td>
-      <td>Spring, JUnit, Swagger, Javadoc</td>
-      <td>MongoDB</td>
-      <td><a href="https://github.com/geozi/review-app">Review app</a></td>
-    </tr>
   </table>
 </div>
 
 <div align="center">
         <table>
-        <h4>Frontend development</h4>
+        <h4>Fullstack web apps</h4>
         <caption></caption>
         <tr>
+          <th>App name</th>
+          <th>Part</th>
           <th>Language</th>
           <th>Framework(s) & Tool(s)</th> 
           <th>Repo</th>
         </tr>
         <tr>
+          <td>Review app</td>
+          <td>Frontend</td>
           <td>Typescript</td>
           <td>Angular</td>
-          <td><a href="https://github.com/geozi/reviewapp-frontend">Review app</a></td>
+          <td><a href="https://github.com/geozi/reviewapp-frontend">Review app frontend</a></td>
         </tr>
+        <tr>
+        <td>Review app</td>
+        <td>Backend</td>
+        <td>Java</td>
+        <td>Spring, JUnit, Swagger, Javadoc</td>
+        <td><a href="https://github.com/geozi/review-app">Review app backend</a></td>
+       </tr>
       </table>
 </div>
 
