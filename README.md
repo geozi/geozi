@@ -34,21 +34,28 @@ The purpose of the following projects is to demonstrate my ability to organize, 
      <tr>
        <td>Rest API</td>
        <td>Typescript</td>
-       <td>Mongoose, Mocha, Sinon, Express, TypeDoc</td>
+       <td>mongoose, mocha, sinon, express, typedoc, pino</td>
+       <td>MongoDB</td>
+       <td><a href="https://github.com/geozi/nodejs-typescript-contact-manager">Contact Manager API</a></td>
+     </tr>
+     <tr>
+       <td>Rest API</td>
+       <td>Typescript</td>
+       <td>mongoose, mocha, sinon, express, typedoc</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-typescript-task-manager">Task Manager API</a></td>
      </tr>
      <tr>
        <td>Rest API</td>
        <td>JavaScript</td>
-       <td>Mongoose, Jasmine, Express, JSDoc, Swagger</td>
+       <td>mongoose, jasmine, express, JSDoc, swagger</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-helpdesk">HelpDesk API</a></td>
      </tr>
      <tr>
        <td>Rest API</td>
        <td>JavaScript</td>
-       <td>Mongoose, Jest, Express, JSDoc</td>
+       <td>mongoose, jest, express, JSDoc</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-warehouse-manager">Warehouse manager API</a></td>
      </tr>
@@ -77,7 +84,7 @@ The purpose of the following projects is to demonstrate my ability to organize, 
         <td>Review app</td>
         <td>Backend</td>
         <td>Java</td>
-        <td>Spring, JUnit, Swagger, Javadoc</td>
+        <td>Spring, JUnit, swagger, javadoc</td>
         <td><a href="https://github.com/geozi/review-app">Review app backend</a></td>
        </tr>
       </table>
@@ -102,25 +109,25 @@ The purpose of the following projects is to demonstrate my ability to organize, 
    <tr>
     <td>User Interface (UI) testing</td>
     <td>Java</td>
-    <td>Selenium, JUnit, Javadoc</td>
+    <td>selenium, JUnit, javadoc</td>
     <td><a href="https://github.com/geozi/selenium-java-junit-popupwindow">Pop-up window</a></td>
   </tr>
   <tr>
     <td>User Interface (UI) testing</td>
     <td>Java</td>
-    <td>Selenium, JUnit, Javadoc</td>
+    <td>selenium, JUnit, javadoc</td>
     <td><a href="https://github.com/geozi/selenium-java-junit-ulelement"> &lt;ul> element</a></td>
   </tr>
    <tr>
     <td>User Interface (UI) testing</td>
      <td>JavaScript</td>
-    <td>Selenium, Jest</td>
+    <td>selenium, jest</td>
     <td><a href="https://github.com/geozi/selenium-javascript-jest-navbar">Navbar</a></td>
   </tr>
   <tr>
     <td>User Interface (UI) testing</td>
     <td>JavaScript</td>
-    <td>Selenium, Jest</td>
+    <td>selenium, jest</td>
     <td><a href="https://github.com/geozi/selenium-javascript-jest-alinks"> &lt;a> elements </a></td>
   </tr>
   </table>
