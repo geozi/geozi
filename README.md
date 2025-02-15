@@ -22,38 +22,33 @@ The purpose of the following projects is to demonstrate my ability to organize, 
 
 <div align="center">
   <table>
-    <h4>Backend web apps</h4>
+    <h4>Backend RESTful web apps</h4>
     <caption></caption>
     <tr>
-      <th>Type</th>
       <th>Language</th>
       <th>Framework(s) & Tool(s)</th> 
       <th>DBMS</th>
       <th>Repo</th>
     </tr>
      <tr>
-       <td>Rest API</td>
        <td>Typescript</td>
        <td>mongoose, mocha, sinon, express, typedoc, pino</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-typescript-contact-manager">Contact Manager API</a></td>
      </tr>
      <tr>
-       <td>Rest API</td>
        <td>Typescript</td>
        <td>mongoose, mocha, sinon, express, typedoc</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-typescript-task-manager">Task Manager API</a></td>
      </tr>
      <tr>
-       <td>Rest API</td>
        <td>JavaScript</td>
        <td>mongoose, jasmine, express, JSDoc, swagger</td>
        <td>MongoDB</td>
        <td><a href="https://github.com/geozi/nodejs-javascript-helpdesk">HelpDesk API</a></td>
      </tr>
      <tr>
-       <td>Rest API</td>
        <td>JavaScript</td>
        <td>mongoose, jest, express, JSDoc</td>
        <td>MongoDB</td>
