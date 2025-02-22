@@ -18,9 +18,7 @@ My name is Georgios, I hold a Master’s degree in Applied Informatics and have 
 
 ### Demo projects
 
-The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They follow a logic of _modular learning_, meaning that each project shares common elements (e.g., the same programming language, web framework, or testing framework) with other projects, but it must contain at least one distinctive element. 
-
-All projects were created on a Linux Mint machine <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/512px-Linux_Mint_logo_without_wordmark.svg.png" width=24>.
+The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They were created on a Linux Mint machine <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/512px-Linux_Mint_logo_without_wordmark.svg.png" width=24>.
 
 <div align="center">
   <table>
