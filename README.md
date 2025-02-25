@@ -10,12 +10,6 @@
 
 My name is Georgios, I hold a Master’s degree in Applied Informatics and have completed a professional training program in Fullstack Development. I possess hands-on experience in programming with Java, JavaScript, TypeScript, and Python.
 
-### Interests
-
-* Server-side programming,
-* Software testing,
-* API development.
-
 ### Demo projects
 
 The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They were created on a Linux Mint machine <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/512px-Linux_Mint_logo_without_wordmark.svg.png" width=24>.
