@@ -12,8 +12,7 @@ My name is Georgios, I hold a Master’s degree in Applied Informatics and have 
 
 ### Demo projects
 
-The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They were created on a Linux Mint machine <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/512px-Linux_Mint_logo_without_wordmark.svg.png" width=24>.
-
+The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They were created on a Linux Mint machine.
 <div align="center">
   <table>
     <h4>Backend RESTful web apps</h4>
