@@ -31,6 +31,12 @@ The purpose of the following projects is to demonstrate my ability to organize, 
     </tr>
      <tr>
        <td>Typescript</td>
+       <td><a href="https://github.com/geozi/nodejs-job-board/blob/main/README.md">README</a></td>
+       <td><a href="https://github.com/geozi/nodejs-job-board/blob/main/QA-test-plan.md">QA-test-plan</a></td>
+       <td><a href="https://github.com/geozi/nodejs-job-board">Job Board API</a></td>
+     </tr>
+     <tr>
+       <td>Typescript</td>
        <td><a href="https://github.com/geozi/nodejs-typescript-contact-manager/blob/main/README.md">README</a></td>
        <td><a href="https://github.com/geozi/nodejs-typescript-contact-manager/blob/main/QA-test-plan.md">QA-test-plan</a></td>
        <td><a href="https://github.com/geozi/nodejs-typescript-contact-manager">Contact Manager API</a></td>
