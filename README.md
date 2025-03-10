@@ -8,13 +8,12 @@
 
 ### About me
 
-My name is Georgios, I hold a Master’s degree in Applied Informatics and have completed a professional training program in Fullstack Development. I possess hands-on experience in programming with Java, JavaScript, TypeScript, and Python.
+My name is Georgios. I possess hands-on experience in programming with Java, JavaScript, TypeScript, and Python.
 
 ### Repo stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geozi">
 </div>
-
 
 ### Demo projects
 
