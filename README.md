@@ -20,7 +20,25 @@ My name is Georgios. I possess hands-on experience in programming with Java, Jav
 The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They were created on a Linux Mint machine.
 <div align="center">
   <table>
-    <h4>Backend RESTful web apps</h4>
+    <h4>Microservice backend RESTful apps</h4>
+    <caption></caption>
+    <tr>
+      <th>Language</th>
+      <th>Description</th> 
+      <th>Repo</th>
+    </tr>
+     <tr>
+       <td>Typescript</td>
+       <td><a href="https://github.com/geozi/nodejs-typescript-book-review/blob/main/README.md">README</a></td>
+       <td><a href="https://github.com/geozi/nodejs-typescript-book-review">Book Review app</a></td>
+     </tr>
+  </table>
+</div>
+
+
+<div align="center">
+  <table>
+    <h4>Monolithic backend RESTful apps</h4>
     <caption></caption>
     <tr>
       <th>Language</th>
