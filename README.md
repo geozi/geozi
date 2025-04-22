@@ -10,11 +10,6 @@
 
 My name is Georgios. I possess hands-on experience in programming with Java, JavaScript, TypeScript, and Python.
 
-### Repo stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geozi">
-</div>
-
 ### Demo projects
 
 The purpose of the following projects is to demonstrate my ability to organize, document, and test code. They were created on a Linux Mint machine.
